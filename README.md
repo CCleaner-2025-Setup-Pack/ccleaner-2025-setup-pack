@@ -43,7 +43,7 @@ The 2025 edition is optimized for Windows 11/10, with faster scans and a redesig
 
 ### 🖼 Preview
 **1. CCleaner Dashboard**  
-![Dashboard](https://support.ccleaner.com/servlet/rtaImage?eid=ka6Qu0000078aDc&feoid=00Nb000000AI7Hh&refid=0EM5p00000AC7ll)  
+![Dashboard](https://images.filepuma.com/screenshots/system_utilities/ccleaner_pro/wa_FP-ccleaner_pro_f1c6673d850b49a704812760855.png)  
 *Main interface with Health Check button*  
 
 
